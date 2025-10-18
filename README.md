@@ -18,8 +18,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📊 Results
-Achieved ~79% accuracy on test dataset.
 
-## 👩‍💻 Author
-**Anu P V**
