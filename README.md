@@ -17,5 +17,3 @@ This project combines **CNN and LSTM** to classify text sentiment as positive or
 pip install -r requirements.txt
 python main.py
 ```
-
-
